@@ -1,4 +1,4 @@
-# 🚀 Jorge Alcaras - Software Enthusiast 👨‍💻
+# 🚀 Software Enthusiast
 
 **👨‍💻 About Me:** Hi, I'm **Jorge Alcaras**, a passionate Software Engineering student with a knack for problem-solving and a love for all things tech!
 
@@ -8,11 +8,11 @@
 
 **✨ Neovim Enthusiast:** As a Neovim enthusiast, I've crafted a killer configuration in Lua for a sublime coding experience.
 
-**💻 Tech Stack:** 👨‍💻 Proficient in C++, Java, and Lua. Turning code into functional art.
+**💻 Tech Stack:** Proficient in C++, Java, and Lua. Turning code into functional art.
 
 **🚀 Projects:**
-1. 🌟 **Neovim Configuration in Lua:** Crafting the ultimate Neovim setup for seamless coding.
-2. 🧮 **Java Calculator:** Developed a powerful calculator application in Java.
+1. 🌟 **Neovim configuration in Lua:** Crafting the ultimate Neovim setup for seamless coding.
+2. 🧮 **Calculator in Java:** Developed a powerful calculator application in Java.
 3. 💡 **Programming Fundamentals Exercises in C++:** Created various exercises to master programming fundamentals.
 
 **🕹️ Gaming Enthusiast:** I'm a dedicated gamer, mastering the art of CS:GO 2 and Valorant. Ready for the next level!
